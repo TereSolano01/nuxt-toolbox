@@ -251,3 +251,5 @@ If you want to discover more Netlify features via this template, here's a couple
 
 - Add a Netlify plugin, either via [the UI](https://app.netlify.com/plugins) or [`netlify.toml`](https://docs.netlify.com/configure-builds/build-plugins/). For example, why not try the `A11y` plugin to run some accessibility testing on your site!
 - [Create environment variables using the CLI](https://www.netlify.com/blog/2021/07/12/managing-environment-variables-from-your-terminal-with-netlify-cli/) to store secret tokens (e.g. API key), and use them in the Netlify function to fetch data from your favorite API.
+#   l e t m e s e e  
+ 
